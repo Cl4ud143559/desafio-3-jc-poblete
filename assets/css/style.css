@@ -1,0 +1,109 @@
+body{
+    font-family:'Raleway';
+    background-color: #0f0f0f;
+    color: #f0f0f0;
+    margin: 0px;
+}
+
+h1{
+    text-align: center;
+    font-size: 3em;
+    font-weight: 500;
+}
+
+header img{
+    width: 100%;
+}
+
+article{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 0.9em;
+}
+
+article p{
+    display: inline-block;
+    width: 35%;
+    margin-left: 14.5em;
+    margin-right: 5em;
+    font-weight: 300;
+}
+
+article b{
+    color: #ffc200;
+}
+
+article img{
+    width: 26em;
+    height: 16.3em;
+}
+
+section{
+    background-color: #232523;
+    margin-left: 15.2em;
+    margin-right: 15.2em;
+}
+
+section h2{
+    text-align: center;
+    font-size: 2em;
+    font-weight: 400;
+    padding: 0.8em;
+    margin: 0em;
+}
+
+section div{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    min-width: 10em;
+    margin-left: 1em;
+    margin-right: 0.8em;
+}
+
+aside{
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+aside div{
+    display: inline-block;
+    text-align: center;
+    min-width: 10em;
+}
+
+aside img{
+    height: 15em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+aside div p{
+    height: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.texto p{
+    display: inline-block;
+    min-width: 20em;
+    text-align: left;
+    vertical-align: top;
+    width: 19.6%;
+    font-weight: 300;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+footer{
+    background-color: #232523;
+    padding: 0.5em;
+    text-align: center;
+    font-size: 1em;
+}
+
+a:hover{
+    -webkit-text-fill-color: #ffc200;
+    text-decoration: none;
+}
